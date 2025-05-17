@@ -149,6 +149,8 @@
             // pnl7
             // 
             this.pnl7.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl7.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl7.Location = new System.Drawing.Point(450, 0);
             this.pnl7.Margin = new System.Windows.Forms.Padding(0);
             this.pnl7.Name = "pnl7";
@@ -158,6 +160,8 @@
             // pnl6
             // 
             this.pnl6.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl6.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl6.Location = new System.Drawing.Point(375, 0);
             this.pnl6.Margin = new System.Windows.Forms.Padding(0);
             this.pnl6.Name = "pnl6";
@@ -167,6 +171,8 @@
             // pnl5
             // 
             this.pnl5.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl5.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl5.Location = new System.Drawing.Point(300, 0);
             this.pnl5.Margin = new System.Windows.Forms.Padding(0);
             this.pnl5.Name = "pnl5";
@@ -176,6 +182,8 @@
             // pnl4
             // 
             this.pnl4.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl4.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl4.Location = new System.Drawing.Point(225, 0);
             this.pnl4.Margin = new System.Windows.Forms.Padding(0);
             this.pnl4.Name = "pnl4";
@@ -185,6 +193,8 @@
             // pnl3
             // 
             this.pnl3.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl3.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl3.Location = new System.Drawing.Point(150, 0);
             this.pnl3.Margin = new System.Windows.Forms.Padding(0);
             this.pnl3.Name = "pnl3";
@@ -216,6 +226,8 @@
             // pnl22
             // 
             this.pnl22.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl22.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl22.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl22.Location = new System.Drawing.Point(0, 225);
             this.pnl22.Margin = new System.Windows.Forms.Padding(0);
             this.pnl22.Name = "pnl22";
@@ -225,6 +237,8 @@
             // pnl23
             // 
             this.pnl23.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl23.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl23.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl23.Location = new System.Drawing.Point(75, 225);
             this.pnl23.Margin = new System.Windows.Forms.Padding(0);
             this.pnl23.Name = "pnl23";
@@ -234,6 +248,8 @@
             // pnl16
             // 
             this.pnl16.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl16.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl16.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl16.Location = new System.Drawing.Point(75, 150);
             this.pnl16.Margin = new System.Windows.Forms.Padding(0);
             this.pnl16.Name = "pnl16";
@@ -243,6 +259,8 @@
             // pnl15
             // 
             this.pnl15.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl15.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl15.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl15.Location = new System.Drawing.Point(0, 150);
             this.pnl15.Margin = new System.Windows.Forms.Padding(0);
             this.pnl15.Name = "pnl15";
@@ -252,6 +270,8 @@
             // pnl8
             // 
             this.pnl8.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl8.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl8.Location = new System.Drawing.Point(0, 75);
             this.pnl8.Margin = new System.Windows.Forms.Padding(0);
             this.pnl8.Name = "pnl8";
@@ -261,6 +281,8 @@
             // pnl9
             // 
             this.pnl9.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl9.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl9.Location = new System.Drawing.Point(75, 75);
             this.pnl9.Margin = new System.Windows.Forms.Padding(0);
             this.pnl9.Name = "pnl9";
@@ -270,6 +292,8 @@
             // pnl10
             // 
             this.pnl10.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl10.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl10.Location = new System.Drawing.Point(150, 75);
             this.pnl10.Margin = new System.Windows.Forms.Padding(0);
             this.pnl10.Name = "pnl10";
@@ -279,6 +303,8 @@
             // pnl17
             // 
             this.pnl17.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl17.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl17.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl17.Location = new System.Drawing.Point(150, 150);
             this.pnl17.Margin = new System.Windows.Forms.Padding(0);
             this.pnl17.Name = "pnl17";
@@ -288,6 +314,8 @@
             // pnl24
             // 
             this.pnl24.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl24.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl24.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl24.Location = new System.Drawing.Point(150, 225);
             this.pnl24.Margin = new System.Windows.Forms.Padding(0);
             this.pnl24.Name = "pnl24";
@@ -297,6 +325,8 @@
             // pnl18
             // 
             this.pnl18.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl18.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl18.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl18.Location = new System.Drawing.Point(225, 150);
             this.pnl18.Margin = new System.Windows.Forms.Padding(0);
             this.pnl18.Name = "pnl18";
@@ -306,6 +336,8 @@
             // pnl11
             // 
             this.pnl11.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl11.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl11.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl11.Location = new System.Drawing.Point(225, 75);
             this.pnl11.Margin = new System.Windows.Forms.Padding(0);
             this.pnl11.Name = "pnl11";
@@ -315,6 +347,8 @@
             // pnl12
             // 
             this.pnl12.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl12.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl12.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl12.Location = new System.Drawing.Point(300, 75);
             this.pnl12.Margin = new System.Windows.Forms.Padding(0);
             this.pnl12.Name = "pnl12";
@@ -324,6 +358,8 @@
             // pnl42
             // 
             this.pnl42.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl42.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl42.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl42.Location = new System.Drawing.Point(450, 375);
             this.pnl42.Margin = new System.Windows.Forms.Padding(0);
             this.pnl42.Name = "pnl42";
@@ -333,6 +369,8 @@
             // pnl41
             // 
             this.pnl41.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl41.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl41.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl41.Location = new System.Drawing.Point(375, 375);
             this.pnl41.Margin = new System.Windows.Forms.Padding(0);
             this.pnl41.Name = "pnl41";
@@ -342,6 +380,8 @@
             // pnl40
             // 
             this.pnl40.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl40.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl40.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl40.Location = new System.Drawing.Point(300, 375);
             this.pnl40.Margin = new System.Windows.Forms.Padding(0);
             this.pnl40.Name = "pnl40";
@@ -351,6 +391,8 @@
             // pnl39
             // 
             this.pnl39.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl39.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl39.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl39.Location = new System.Drawing.Point(225, 375);
             this.pnl39.Margin = new System.Windows.Forms.Padding(0);
             this.pnl39.Name = "pnl39";
@@ -360,6 +402,8 @@
             // pnl38
             // 
             this.pnl38.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl38.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl38.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl38.Location = new System.Drawing.Point(150, 375);
             this.pnl38.Margin = new System.Windows.Forms.Padding(0);
             this.pnl38.Name = "pnl38";
@@ -369,6 +413,8 @@
             // pnl37
             // 
             this.pnl37.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl37.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl37.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl37.Location = new System.Drawing.Point(75, 375);
             this.pnl37.Margin = new System.Windows.Forms.Padding(0);
             this.pnl37.Name = "pnl37";
@@ -378,6 +424,8 @@
             // pnl36
             // 
             this.pnl36.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl36.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl36.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl36.Location = new System.Drawing.Point(0, 375);
             this.pnl36.Margin = new System.Windows.Forms.Padding(0);
             this.pnl36.Name = "pnl36";
@@ -387,6 +435,8 @@
             // pnl29
             // 
             this.pnl29.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl29.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl29.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl29.Location = new System.Drawing.Point(0, 300);
             this.pnl29.Margin = new System.Windows.Forms.Padding(0);
             this.pnl29.Name = "pnl29";
@@ -396,6 +446,8 @@
             // pnl30
             // 
             this.pnl30.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl30.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl30.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl30.Location = new System.Drawing.Point(75, 300);
             this.pnl30.Margin = new System.Windows.Forms.Padding(0);
             this.pnl30.Name = "pnl30";
@@ -405,6 +457,8 @@
             // pnl31
             // 
             this.pnl31.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl31.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl31.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl31.Location = new System.Drawing.Point(150, 300);
             this.pnl31.Margin = new System.Windows.Forms.Padding(0);
             this.pnl31.Name = "pnl31";
@@ -414,6 +468,8 @@
             // pnl32
             // 
             this.pnl32.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl32.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl32.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl32.Location = new System.Drawing.Point(225, 300);
             this.pnl32.Margin = new System.Windows.Forms.Padding(0);
             this.pnl32.Name = "pnl32";
@@ -423,6 +479,8 @@
             // pnl33
             // 
             this.pnl33.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl33.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl33.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl33.Location = new System.Drawing.Point(300, 300);
             this.pnl33.Margin = new System.Windows.Forms.Padding(0);
             this.pnl33.Name = "pnl33";
@@ -432,6 +490,8 @@
             // pnl34
             // 
             this.pnl34.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl34.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl34.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl34.Location = new System.Drawing.Point(375, 300);
             this.pnl34.Margin = new System.Windows.Forms.Padding(0);
             this.pnl34.Name = "pnl34";
@@ -441,6 +501,8 @@
             // pnl35
             // 
             this.pnl35.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl35.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl35.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl35.Location = new System.Drawing.Point(450, 300);
             this.pnl35.Margin = new System.Windows.Forms.Padding(0);
             this.pnl35.Name = "pnl35";
@@ -450,6 +512,8 @@
             // pnl28
             // 
             this.pnl28.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl28.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl28.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl28.Location = new System.Drawing.Point(450, 225);
             this.pnl28.Margin = new System.Windows.Forms.Padding(0);
             this.pnl28.Name = "pnl28";
@@ -459,6 +523,8 @@
             // pnl27
             // 
             this.pnl27.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl27.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl27.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl27.Location = new System.Drawing.Point(375, 225);
             this.pnl27.Margin = new System.Windows.Forms.Padding(0);
             this.pnl27.Name = "pnl27";
@@ -468,6 +534,8 @@
             // pnl21
             // 
             this.pnl21.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl21.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl21.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl21.Location = new System.Drawing.Point(450, 150);
             this.pnl21.Margin = new System.Windows.Forms.Padding(0);
             this.pnl21.Name = "pnl21";
@@ -477,6 +545,8 @@
             // pnl14
             // 
             this.pnl14.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl14.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl14.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl14.Location = new System.Drawing.Point(450, 75);
             this.pnl14.Margin = new System.Windows.Forms.Padding(0);
             this.pnl14.Name = "pnl14";
@@ -486,6 +556,8 @@
             // pnl13
             // 
             this.pnl13.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl13.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl13.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl13.Location = new System.Drawing.Point(375, 75);
             this.pnl13.Margin = new System.Windows.Forms.Padding(0);
             this.pnl13.Name = "pnl13";
@@ -495,6 +567,8 @@
             // pnl20
             // 
             this.pnl20.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl20.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl20.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl20.Location = new System.Drawing.Point(375, 150);
             this.pnl20.Margin = new System.Windows.Forms.Padding(0);
             this.pnl20.Name = "pnl20";
@@ -504,6 +578,8 @@
             // pnl19
             // 
             this.pnl19.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl19.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl19.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl19.Location = new System.Drawing.Point(300, 150);
             this.pnl19.Margin = new System.Windows.Forms.Padding(0);
             this.pnl19.Name = "pnl19";
@@ -513,6 +589,8 @@
             // pnl26
             // 
             this.pnl26.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl26.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl26.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl26.Location = new System.Drawing.Point(300, 225);
             this.pnl26.Margin = new System.Windows.Forms.Padding(0);
             this.pnl26.Name = "pnl26";
@@ -522,6 +600,8 @@
             // pnl25
             // 
             this.pnl25.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pnl25.BackgroundImage = global::FORZA4.Properties.Resources.cerchiobianco;
+            this.pnl25.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnl25.Location = new System.Drawing.Point(225, 225);
             this.pnl25.Margin = new System.Windows.Forms.Padding(0);
             this.pnl25.Name = "pnl25";
