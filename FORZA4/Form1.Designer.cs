@@ -723,7 +723,7 @@
             this.Controls.Add(this.btn1);
             this.Controls.Add(this.tblgriglia);
             this.Name = "Forza4";
-            this.Text = "FORA4GAME";
+            this.Text = "FORZA4GAME";
             this.tblgriglia.ResumeLayout(false);
             this.ResumeLayout(false);
 
