@@ -10,11 +10,13 @@ using System.Windows.Forms;
 
 namespace FORZA4
 {
-    public partial class Form1 : Form
+    public partial class Forza4 : Form
     {
-        public Form1()
+        public Forza4()
         {
             InitializeComponent();
         }
+
+     
     }
 }
