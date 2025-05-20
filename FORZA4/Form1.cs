@@ -17,6 +17,11 @@ namespace FORZA4
             InitializeComponent();
         }
 
-     
+        private void btnistruzioni_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        //MODIFICATO PENEEEEEEEEEEEE
     }
 }

@@ -707,6 +707,7 @@
             this.btnistruzioni.TabIndex = 8;
             this.btnistruzioni.Text = "ISTRUZIONI";
             this.btnistruzioni.UseVisualStyleBackColor = true;
+            this.btnistruzioni.Click += new System.EventHandler(this.btnistruzioni_Click);
             // 
             // Forza4
             // 
