@@ -71,13 +71,13 @@
             this.pnl19 = new System.Windows.Forms.Panel();
             this.pnl26 = new System.Windows.Forms.Panel();
             this.pnl25 = new System.Windows.Forms.Panel();
-            this.btn1 = new System.Windows.Forms.Button();
-            this.btn2 = new System.Windows.Forms.Button();
-            this.btn3 = new System.Windows.Forms.Button();
-            this.btn4 = new System.Windows.Forms.Button();
-            this.btn5 = new System.Windows.Forms.Button();
-            this.btn6 = new System.Windows.Forms.Button();
-            this.btn7 = new System.Windows.Forms.Button();
+            this.btn_colonna1 = new System.Windows.Forms.Button();
+            this.btn_colonna2 = new System.Windows.Forms.Button();
+            this.btn_colonna3 = new System.Windows.Forms.Button();
+            this.btn_colonna4 = new System.Windows.Forms.Button();
+            this.btn_colonna5 = new System.Windows.Forms.Button();
+            this.btn_colonna6 = new System.Windows.Forms.Button();
+            this.btn_colonna7 = new System.Windows.Forms.Button();
             this.btnistruzioni = new System.Windows.Forms.Button();
             this.tblgriglia.SuspendLayout();
             this.SuspendLayout();
@@ -608,96 +608,97 @@
             this.pnl25.Size = new System.Drawing.Size(75, 75);
             this.pnl25.TabIndex = 3;
             // 
-            // btn1
+            // btn_colonna1
             // 
-            this.btn1.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.btn1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btn1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1.ForeColor = System.Drawing.SystemColors.Control;
-            this.btn1.Location = new System.Drawing.Point(133, 97);
-            this.btn1.Margin = new System.Windows.Forms.Padding(0);
-            this.btn1.Name = "btn1";
-            this.btn1.Size = new System.Drawing.Size(75, 75);
-            this.btn1.TabIndex = 1;
-            this.btn1.UseVisualStyleBackColor = false;
+            this.btn_colonna1.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_colonna1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btn_colonna1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_colonna1.ForeColor = System.Drawing.SystemColors.Control;
+            this.btn_colonna1.Location = new System.Drawing.Point(133, 97);
+            this.btn_colonna1.Margin = new System.Windows.Forms.Padding(0);
+            this.btn_colonna1.Name = "btn_colonna1";
+            this.btn_colonna1.Size = new System.Drawing.Size(75, 75);
+            this.btn_colonna1.TabIndex = 1;
+            this.btn_colonna1.UseVisualStyleBackColor = false;
+            this.btn_colonna1.Click += new System.EventHandler(this.btn_colonna1_Click);
             // 
-            // btn2
+            // btn_colonna2
             // 
-            this.btn2.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.btn2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btn2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2.ForeColor = System.Drawing.SystemColors.Control;
-            this.btn2.Location = new System.Drawing.Point(208, 97);
-            this.btn2.Margin = new System.Windows.Forms.Padding(0);
-            this.btn2.Name = "btn2";
-            this.btn2.Size = new System.Drawing.Size(75, 75);
-            this.btn2.TabIndex = 2;
-            this.btn2.UseVisualStyleBackColor = false;
+            this.btn_colonna2.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_colonna2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btn_colonna2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_colonna2.ForeColor = System.Drawing.SystemColors.Control;
+            this.btn_colonna2.Location = new System.Drawing.Point(208, 97);
+            this.btn_colonna2.Margin = new System.Windows.Forms.Padding(0);
+            this.btn_colonna2.Name = "btn_colonna2";
+            this.btn_colonna2.Size = new System.Drawing.Size(75, 75);
+            this.btn_colonna2.TabIndex = 2;
+            this.btn_colonna2.UseVisualStyleBackColor = false;
             // 
-            // btn3
+            // btn_colonna3
             // 
-            this.btn3.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.btn3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btn3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3.ForeColor = System.Drawing.SystemColors.Control;
-            this.btn3.Location = new System.Drawing.Point(283, 97);
-            this.btn3.Margin = new System.Windows.Forms.Padding(0);
-            this.btn3.Name = "btn3";
-            this.btn3.Size = new System.Drawing.Size(75, 75);
-            this.btn3.TabIndex = 3;
-            this.btn3.UseVisualStyleBackColor = false;
+            this.btn_colonna3.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_colonna3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btn_colonna3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_colonna3.ForeColor = System.Drawing.SystemColors.Control;
+            this.btn_colonna3.Location = new System.Drawing.Point(283, 97);
+            this.btn_colonna3.Margin = new System.Windows.Forms.Padding(0);
+            this.btn_colonna3.Name = "btn_colonna3";
+            this.btn_colonna3.Size = new System.Drawing.Size(75, 75);
+            this.btn_colonna3.TabIndex = 3;
+            this.btn_colonna3.UseVisualStyleBackColor = false;
             // 
-            // btn4
+            // btn_colonna4
             // 
-            this.btn4.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.btn4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btn4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn4.ForeColor = System.Drawing.SystemColors.Control;
-            this.btn4.Location = new System.Drawing.Point(358, 97);
-            this.btn4.Margin = new System.Windows.Forms.Padding(0);
-            this.btn4.Name = "btn4";
-            this.btn4.Size = new System.Drawing.Size(75, 75);
-            this.btn4.TabIndex = 4;
-            this.btn4.UseVisualStyleBackColor = false;
+            this.btn_colonna4.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_colonna4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btn_colonna4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_colonna4.ForeColor = System.Drawing.SystemColors.Control;
+            this.btn_colonna4.Location = new System.Drawing.Point(358, 97);
+            this.btn_colonna4.Margin = new System.Windows.Forms.Padding(0);
+            this.btn_colonna4.Name = "btn_colonna4";
+            this.btn_colonna4.Size = new System.Drawing.Size(75, 75);
+            this.btn_colonna4.TabIndex = 4;
+            this.btn_colonna4.UseVisualStyleBackColor = false;
             // 
-            // btn5
+            // btn_colonna5
             // 
-            this.btn5.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.btn5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btn5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn5.ForeColor = System.Drawing.SystemColors.Control;
-            this.btn5.Location = new System.Drawing.Point(433, 97);
-            this.btn5.Margin = new System.Windows.Forms.Padding(0);
-            this.btn5.Name = "btn5";
-            this.btn5.Size = new System.Drawing.Size(75, 75);
-            this.btn5.TabIndex = 5;
-            this.btn5.UseVisualStyleBackColor = false;
+            this.btn_colonna5.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_colonna5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btn_colonna5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_colonna5.ForeColor = System.Drawing.SystemColors.Control;
+            this.btn_colonna5.Location = new System.Drawing.Point(433, 97);
+            this.btn_colonna5.Margin = new System.Windows.Forms.Padding(0);
+            this.btn_colonna5.Name = "btn_colonna5";
+            this.btn_colonna5.Size = new System.Drawing.Size(75, 75);
+            this.btn_colonna5.TabIndex = 5;
+            this.btn_colonna5.UseVisualStyleBackColor = false;
             // 
-            // btn6
+            // btn_colonna6
             // 
-            this.btn6.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.btn6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btn6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn6.ForeColor = System.Drawing.SystemColors.Control;
-            this.btn6.Location = new System.Drawing.Point(508, 97);
-            this.btn6.Margin = new System.Windows.Forms.Padding(0);
-            this.btn6.Name = "btn6";
-            this.btn6.Size = new System.Drawing.Size(75, 75);
-            this.btn6.TabIndex = 6;
-            this.btn6.UseVisualStyleBackColor = false;
+            this.btn_colonna6.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_colonna6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btn_colonna6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_colonna6.ForeColor = System.Drawing.SystemColors.Control;
+            this.btn_colonna6.Location = new System.Drawing.Point(508, 97);
+            this.btn_colonna6.Margin = new System.Windows.Forms.Padding(0);
+            this.btn_colonna6.Name = "btn_colonna6";
+            this.btn_colonna6.Size = new System.Drawing.Size(75, 75);
+            this.btn_colonna6.TabIndex = 6;
+            this.btn_colonna6.UseVisualStyleBackColor = false;
             // 
-            // btn7
+            // btn_colonna7
             // 
-            this.btn7.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.btn7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btn7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn7.ForeColor = System.Drawing.SystemColors.Control;
-            this.btn7.Location = new System.Drawing.Point(583, 97);
-            this.btn7.Margin = new System.Windows.Forms.Padding(0);
-            this.btn7.Name = "btn7";
-            this.btn7.Size = new System.Drawing.Size(75, 75);
-            this.btn7.TabIndex = 7;
-            this.btn7.UseVisualStyleBackColor = false;
+            this.btn_colonna7.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_colonna7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btn_colonna7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_colonna7.ForeColor = System.Drawing.SystemColors.Control;
+            this.btn_colonna7.Location = new System.Drawing.Point(583, 97);
+            this.btn_colonna7.Margin = new System.Windows.Forms.Padding(0);
+            this.btn_colonna7.Name = "btn_colonna7";
+            this.btn_colonna7.Size = new System.Drawing.Size(75, 75);
+            this.btn_colonna7.TabIndex = 7;
+            this.btn_colonna7.UseVisualStyleBackColor = false;
             // 
             // btnistruzioni
             // 
@@ -707,7 +708,6 @@
             this.btnistruzioni.TabIndex = 8;
             this.btnistruzioni.Text = "ISTRUZIONI";
             this.btnistruzioni.UseVisualStyleBackColor = true;
-            this.btnistruzioni.Click += new System.EventHandler(this.btnistruzioni_Click);
             // 
             // Forza4
             // 
@@ -715,13 +715,13 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(934, 661);
             this.Controls.Add(this.btnistruzioni);
-            this.Controls.Add(this.btn7);
-            this.Controls.Add(this.btn6);
-            this.Controls.Add(this.btn5);
-            this.Controls.Add(this.btn4);
-            this.Controls.Add(this.btn3);
-            this.Controls.Add(this.btn2);
-            this.Controls.Add(this.btn1);
+            this.Controls.Add(this.btn_colonna7);
+            this.Controls.Add(this.btn_colonna6);
+            this.Controls.Add(this.btn_colonna5);
+            this.Controls.Add(this.btn_colonna4);
+            this.Controls.Add(this.btn_colonna3);
+            this.Controls.Add(this.btn_colonna2);
+            this.Controls.Add(this.btn_colonna1);
             this.Controls.Add(this.tblgriglia);
             this.Name = "Forza4";
             this.Text = "FORZA4GAME";
@@ -775,13 +775,13 @@
         private System.Windows.Forms.Panel pnl20;
         private System.Windows.Forms.Panel pnl19;
         private System.Windows.Forms.Panel pnl26;
-        private System.Windows.Forms.Button btn1;
-        private System.Windows.Forms.Button btn2;
-        private System.Windows.Forms.Button btn3;
-        private System.Windows.Forms.Button btn4;
-        private System.Windows.Forms.Button btn5;
-        private System.Windows.Forms.Button btn6;
-        private System.Windows.Forms.Button btn7;
+        private System.Windows.Forms.Button btn_colonna1;
+        private System.Windows.Forms.Button btn_colonna2;
+        private System.Windows.Forms.Button btn_colonna3;
+        private System.Windows.Forms.Button btn_colonna4;
+        private System.Windows.Forms.Button btn_colonna5;
+        private System.Windows.Forms.Button btn_colonna6;
+        private System.Windows.Forms.Button btn_colonna7;
         private System.Windows.Forms.Button btnistruzioni;
     }
 }

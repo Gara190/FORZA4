@@ -17,11 +17,10 @@ namespace FORZA4
             InitializeComponent();
         }
 
-        private void btnistruzioni_Click(object sender, EventArgs e)
+        private void btn_colonna1_Click(object sender, EventArgs e)
         {
+            CColonna colonna = new CColonna(1);
 
         }
-
-        //MODIFICATO PENEEEEEEEEEEEE ANASTASIA
     }
 }
