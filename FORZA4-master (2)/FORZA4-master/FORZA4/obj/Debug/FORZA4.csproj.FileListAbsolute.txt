@@ -1,0 +1,13 @@
+C:\Users\Portatile\OneDrive\Desktop\FORZA4-master (2)\FORZA4-master\FORZA4\bin\Debug\FORZA4.exe.config
+C:\Users\Portatile\OneDrive\Desktop\FORZA4-master (2)\FORZA4-master\FORZA4\bin\Debug\FORZA4.exe
+C:\Users\Portatile\OneDrive\Desktop\FORZA4-master (2)\FORZA4-master\FORZA4\bin\Debug\FORZA4.pdb
+C:\Users\Portatile\OneDrive\Desktop\FORZA4-master (2)\FORZA4-master\FORZA4\obj\Debug\FORZA4.csproj.AssemblyReference.cache
+C:\Users\Portatile\OneDrive\Desktop\FORZA4-master (2)\FORZA4-master\FORZA4\obj\Debug\FORZA4.Forza4.resources
+C:\Users\Portatile\OneDrive\Desktop\FORZA4-master (2)\FORZA4-master\FORZA4\obj\Debug\FORZA4.Properties.Resources.resources
+C:\Users\Portatile\OneDrive\Desktop\FORZA4-master (2)\FORZA4-master\FORZA4\obj\Debug\FORZA4.csproj.GenerateResource.cache
+C:\Users\Portatile\OneDrive\Desktop\FORZA4-master (2)\FORZA4-master\FORZA4\obj\Debug\FORZA4.csproj.CoreCompileInputs.cache
+C:\Users\Portatile\OneDrive\Desktop\FORZA4-master (2)\FORZA4-master\FORZA4\obj\Debug\FORZA4.exe
+C:\Users\Portatile\OneDrive\Desktop\FORZA4-master (2)\FORZA4-master\FORZA4\obj\Debug\FORZA4.pdb
+C:\Users\Portatile\OneDrive\Desktop\FORZA4-master (2)\FORZA4-master\FORZA4\obj\Debug\FORZA4.Vittoria.resources
+C:\Users\Portatile\OneDrive\Desktop\FORZA4-master (2)\FORZA4-master\FORZA4\obj\Debug\FORZA4.ColonnaPiena.resources
+C:\Users\Portatile\OneDrive\Desktop\FORZA4-master (2)\FORZA4-master\FORZA4\obj\Debug\FORZA4.Istruzioni.resources
